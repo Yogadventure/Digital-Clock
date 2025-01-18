@@ -1,0 +1,39 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-image: url("Taj-Mahal.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+   
+}
+
+#clock-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;    
+    flex-direction: column;
+    
+}
+
+#clock,#day {
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;    
+    border: 5px solid black;
+    padding: 15px;
+    background-color: rgba(42, 50, 54, 0.135);
+    -webkit-backdrop-filter: blur(25px);
+    backdrop-filter: blur(25px);   
+
+}
