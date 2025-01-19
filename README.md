@@ -1,4 +1,6 @@
+<h1 style="font-size: 36px; font-family: Arial, sans-serif;">
 Digital Clock:
+</h1>
 
 This project shows time and day like a digital clock.
 
