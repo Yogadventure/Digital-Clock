@@ -3,6 +3,7 @@ Digital Clock:
 This project shows time and day like a digital clock.
 
 Features:
+
 Displays the current time well in hours, minutes, and seconds format.
 
 Shows the current day.
